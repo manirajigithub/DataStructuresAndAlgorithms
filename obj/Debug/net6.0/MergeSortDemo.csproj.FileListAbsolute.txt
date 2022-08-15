@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.AssemblyInfo.cs
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\bin\Debug\net6.0\MergeSortDemo.exe
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\bin\Debug\net6.0\MergeSortDemo.deps.json
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\bin\Debug\net6.0\MergeSortDemo.runtimeconfig.json
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\bin\Debug\net6.0\MergeSortDemo.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\bin\Debug\net6.0\MergeSortDemo.pdb
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\refint\MergeSortDemo.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.pdb
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\MergeSortDemo.genruntimeconfig.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\MergeSortDemo\obj\Debug\net6.0\ref\MergeSortDemo.dll

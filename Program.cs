@@ -7,7 +7,7 @@
 
 
             MergeSortDemo mergeSortDemo = new MergeSortDemo();
-            mergeSortDemo.CheckMergeSort();
+            mergeSortDemo.CheckMergeSortDemo();
         }
     }
 }
