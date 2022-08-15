@@ -1,4 +1,4 @@
-﻿namespace Anagram
+namespace Anagram
 {
     class Program
     {
