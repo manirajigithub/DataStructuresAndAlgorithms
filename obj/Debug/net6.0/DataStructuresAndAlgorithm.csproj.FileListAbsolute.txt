@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.AssemblyInfo.cs
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\net6.0\DataStructuresAndAlgorithm.exe
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\net6.0\DataStructuresAndAlgorithm.deps.json
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\net6.0\DataStructuresAndAlgorithm.runtimeconfig.json
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\net6.0\DataStructuresAndAlgorithm.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\bin\Debug\net6.0\DataStructuresAndAlgorithm.pdb
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\refint\DataStructuresAndAlgorithm.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.pdb
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\DataStructuresAndAlgorithm.genruntimeconfig.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\DataStructuresAndAlgorithm\obj\Debug\net6.0\ref\DataStructuresAndAlgorithm.dll
