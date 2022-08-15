@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\bin\Debug\net6.0\InsertionSortDemo.exe
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\bin\Debug\net6.0\InsertionSortDemo.deps.json
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\bin\Debug\net6.0\InsertionSortDemo.runtimeconfig.json
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\bin\Debug\net6.0\InsertionSortDemo.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\bin\Debug\net6.0\InsertionSortDemo.pdb
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.AssemblyInfo.cs
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\refint\InsertionSortDemo.dll
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.pdb
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\InsertionSortDemo.genruntimeconfig.cache
+C:\Users\mani1\source\repos\DataStructuresAndAlgorithm\InsertionSortDemo\obj\Debug\net6.0\ref\InsertionSortDemo.dll
