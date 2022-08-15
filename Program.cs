@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace BubbleSortDemo
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            BubbleSort bubbleSort= new BubbleSort();
+            bubbleSort.Sorting();
+        }
+    }
+}
