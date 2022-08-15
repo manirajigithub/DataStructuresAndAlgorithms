@@ -1,4 +1,4 @@
-﻿namespace BubbleSortDemo
+namespace BubbleSort
 {
     class Program
     {
