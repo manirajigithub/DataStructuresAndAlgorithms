@@ -1,4 +1,4 @@
-﻿namespace DataStructureandAlgorithm
+namespace DataStructureandAlgorithm
 {
     class Program
     {
